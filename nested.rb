@@ -14,7 +14,7 @@ def hopper
         :known_for => "Unix",
         :languages => ["C"]
       }
-      return programmer_hash[key]
+      return programmer_hash[]
     }
 
 end
